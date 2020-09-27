@@ -1,4 +1,5 @@
 from tkinter import Tk, Button, Label, DoubleVar, Entry
+#Feet to meters converter. One-way only.
 
 c_window_width = int(190)
 cww = c_window_width
